@@ -11,7 +11,7 @@ Apri [**questo link**](https://github.com/Tundrak/IPTV-Italia/releases) e scaric
 
 |    **iptvita.m3u**  |   https://github.com/Tundrak/IPTV-Italia/raw/main/iptvita.m3u    |
 |--------------------:|:----------------------------------------------------------------:|
-| **iptvitaplus.m3u** | https://github.com/Tundrak/IPTV-Italia/raw/main/iptvitaplus.m3u  |
+| **iptvitaplus.m3u** | https://raw.githubusercontent.com/wpisa24/IPTV-Italia/refs/heads/main/iptvitaplus%20(1).m3u |
 | **ipradioita.m3u**  |  https://github.com/Tundrak/IPTV-Italia/raw/main/ipradioita.m3u  |
 
 # Cosa contiene
