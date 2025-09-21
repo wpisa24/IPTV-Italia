@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
-https://streamcdng10-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma_1800-5000.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1758419865&tof=86400&tk2=22ab821aa86afbaaf7b724e9da037efbe1ee4c03ba18c20fd4bc382ff1211dde
+https://raiuno1-dash-live.akamaized.net/dash/live/652296/raiuno1/manifest.mpd
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 https://streamcdng18-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma_1800-5000.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1758420111&tof=86400&tk2=0cee14edbaf7fe17877e8c3bf83fc72925b8a8d6fcb4f2afdb59e96e4fe750ce
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
