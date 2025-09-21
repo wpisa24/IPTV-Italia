@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma_1800-5000.m3u8?hdnea=st=1758419593~exp=1758419743~acl=/*~hmac=8e88a36c94a0e98fc45e0429a4bdcaf33556a5d7af0e2e676748ab3ae3ad5cf5
+https://streamcdng10-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma_1800-5000.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1758419865&tof=86400&tk2=22ab821aa86afbaaf7b724e9da037efbe1ee4c03ba18c20fd4bc382ff1211dde
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 http://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
