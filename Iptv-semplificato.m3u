@@ -220,3 +220,5 @@ https://stream3.xdevel.com/video0s976570-1422/stream/playlist_dvr.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-name="RSI La2" tvg-id="rsila2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" tvg-chno="901" group-title="Altro",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:-1 tvg-name="MarcoPolo Travel TV" tvg-id="TravelTV.it" tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2025/07/logo-marcopolo-gruppo-sciscione.png" group-title="Altro",MarcoPolo Travel TV
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
